@@ -1,0 +1,75 @@
+# QuantBot 配置文件
+
+# ===== 模擬交易模式 =====
+simulation:
+  enabled: true
+  price_change_range: 0.02
+  arbitrage_opportunity_rate: 0.3
+
+exchange:
+  mexc:
+    enabled: true
+    api_key: "${MEXC_API_KEY}"
+    api_secret: "${MEXC_API_SECRET}"
+    testnet: true
+    spot_maker_fee: 0.000
+    spot_taker_fee: 0.002
+    futures_maker_fee: 0.000
+    futures_taker_fee: 0.000
+
+  bitget:
+    enabled: true
+    api_key: "${BITGET_API_KEY}"
+    api_secret: "${BITGET_API_SECRET}"
+    passphrase: "${BITGET_PASSPHRASE}"
+    testnet: true
+    spot_maker_fee: 0.000
+    spot_taker_fee: 0.001
+
+trading:
+  initial_capital: 100
+  min_trade_amount: 10
+  max_position_pct: 0.1
+  max_positions: 10
+
+ai_agent:
+  enabled: true
+  api_key: "${MINIMAX_API_KEY}"
+  model: "minimax-portal/MiniMax-M2.5"
+
+strategy:
+  cross_exchange_arbitrage:
+    enabled: true
+    min_profit_ratio: 0.003
+    check_interval: 3
+    exchange_a: "mexc"
+    exchange_b: "bitget"
+    max_arbitrage_amount: 10
+    pairs:
+      - ["BTC/USDT", "BTC/USDT"]
+      - ["ETH/USDT", "ETH/USDT"]
+      - ["SOL/USDT", "SOL/USDT"]
+
+  spot_futures_arbitrage:
+    enabled: true
+    min_profit_ratio: 0.002
+    check_interval: 5
+    exchange: "mexc"
+    max_trade_amount: 10
+
+risk:
+  stop_loss: 0.02
+  take_profit: 0.015
+  max_daily_loss: 0.10
+
+notification:
+  telegram:
+    enabled: true
+    bot_token: "${TELEGRAM_BOT_TOKEN}"
+    chat_id: "${TELEGRAM_CHAT_ID}"
+
+logging:
+  level: "INFO"
+  file: "logs/quantbot.log"
+  console: true
+  

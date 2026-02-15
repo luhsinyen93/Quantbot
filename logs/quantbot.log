@@ -1,0 +1,508 @@
+2026-02-15 16:20:40 | INFO     | QuantBot.src.notification.telegram | Telegram 通知已啟用: chat_id=
+2026-02-15 16:20:40 | INFO     | QuantBot.__main__ | 正在啟動 QuantBot...
+2026-02-15 16:20:40 | INFO     | QuantBot.src.data.simulator | 🎮 市場模擬器初始化: enabled=True
+2026-02-15 16:20:40 | INFO     | QuantBot.src.data.fetcher | 🎮 已初始化模擬交易所: ['mexc', 'bitget']
+2026-02-15 16:20:40 | INFO     | QuantBot.src.data.fetcher | 🎮 模擬模式啟動
+2026-02-15 16:22:07 | INFO     | QuantBot.src.notification.telegram | Telegram 通知已啟用: chat_id=
+2026-02-15 16:22:07 | INFO     | QuantBot.__main__ | 正在啟動 QuantBot...
+2026-02-15 16:22:07 | INFO     | QuantBot.src.data.simulator | 🎮 市場模擬器初始化: enabled=True
+2026-02-15 16:22:07 | INFO     | QuantBot.src.data.fetcher | 🎮 已初始化模擬交易所: ['mexc', 'bitget']
+2026-02-15 16:22:07 | INFO     | QuantBot.src.data.fetcher | 🎮 模擬模式啟動
+2026-02-15 16:22:07 | INFO     | QuantBot.src.trading.smart_trader | SmartTrader 初始化完成
+2026-02-15 16:22:07 | INFO     | QuantBot.src.risk.manager | 風險管理器初始化: 止損2.0%, 止盈1.5%
+2026-02-15 16:24:10 | INFO     | QuantBot.src.notification.telegram | Telegram 通知已啟用: chat_id=
+2026-02-15 16:24:10 | INFO     | QuantBot.__main__ | 正在啟動 QuantBot...
+2026-02-15 16:24:10 | INFO     | QuantBot.src.data.simulator | 🎮 市場模擬器初始化: enabled=True
+2026-02-15 16:24:10 | INFO     | QuantBot.src.data.fetcher | 🎮 已初始化模擬交易所: ['mexc', 'bitget']
+2026-02-15 16:24:10 | INFO     | QuantBot.src.data.fetcher | 🎮 模擬模式啟動
+2026-02-15 16:24:10 | INFO     | QuantBot.src.trading.smart_trader | SmartTrader 初始化完成
+2026-02-15 16:24:10 | INFO     | QuantBot.src.risk.manager | 風險管理器初始化: 止損2.0%, 止盈1.5%
+2026-02-15 16:24:22 | INFO     | QuantBot.src.notification.telegram | Telegram 通知已啟用: chat_id=
+2026-02-15 16:24:22 | INFO     | QuantBot.__main__ | 正在啟動 QuantBot...
+2026-02-15 16:24:22 | INFO     | QuantBot.src.data.simulator | 🎮 市場模擬器初始化: enabled=True
+2026-02-15 16:24:22 | INFO     | QuantBot.src.data.fetcher | 🎮 已初始化模擬交易所: ['mexc', 'bitget']
+2026-02-15 16:24:22 | INFO     | QuantBot.src.data.fetcher | 🎮 模擬模式啟動
+2026-02-15 16:24:22 | INFO     | QuantBot.src.trading.smart_trader | SmartTrader 初始化完成
+2026-02-15 16:24:22 | INFO     | QuantBot.src.risk.manager | 風險管理器初始化: 止損2.0%, 止盈1.5%
+2026-02-15 16:30:14 | INFO     | QuantBot.src.notification.telegram | Telegram 通知已啟用: chat_id=
+2026-02-15 16:30:14 | INFO     | QuantBot.__main__ | 正在啟動 QuantBot...
+2026-02-15 16:30:14 | INFO     | QuantBot.src.data.simulator | 🎮 市場模擬器初始化: enabled=True
+2026-02-15 16:30:14 | INFO     | QuantBot.src.data.fetcher | 🎮 已初始化模擬交易所: ['mexc', 'bitget']
+2026-02-15 16:30:14 | INFO     | QuantBot.src.data.fetcher | 🎮 模擬模式啟動
+2026-02-15 16:30:14 | INFO     | QuantBot.src.trading.smart_trader | SmartTrader 初始化完成
+2026-02-15 16:30:14 | INFO     | QuantBot.src.risk.manager | 風險管理器初始化: 止損2.0%, 止盈1.5%
+2026-02-15 16:30:14 | INFO     | QuantBot.src.strategy.arbitrage | 🤖 套利策略初始化: mexc ↔ bitget
+2026-02-15 16:30:14 | INFO     | QuantBot.src.core.bot | ✅ 交易所間套利策略已啟用
+2026-02-15 16:30:14 | INFO     | QuantBot.src.strategy.spot_futures | 📊 現貨-合約套利策略初始化
+2026-02-15 16:30:14 | INFO     | QuantBot.src.core.bot | ✅ 現貨-合約套利策略已啟用
+2026-02-15 16:30:14 | INFO     | QuantBot.src.core.bot | 已加載 2 個策略
+2026-02-15 16:30:14 | INFO     | QuantBot.src.core.bot | 🌐 Web 控制面板已啟動: http://localhost:5000
+2026-02-15 16:30:14 | INFO     | QuantBot.src.core.bot | QuantBot (AI版) 初始化完成
+2026-02-15 16:30:14 | INFO     | QuantBot.src.core.bot | ==================================================
+2026-02-15 16:30:14 | INFO     | QuantBot.src.core.bot | QuantBot AI 版啟動
+2026-02-15 16:30:14 | INFO     | QuantBot.src.core.bot | 🎮 模式: 模擬交易 (測試中)
+2026-02-15 16:30:14 | INFO     | QuantBot.src.core.bot | ==================================================
+2026-02-15 16:30:14 | INFO     | QuantBot.src.core.bot | ✓ mexc 已連接
+2026-02-15 16:30:14 | INFO     | QuantBot.src.core.bot | ✓ bitget 已連接
+2026-02-15 16:30:14 | INFO     | QuantBot.src.core.bot | 已設定 3 個排程任務
+2026-02-15 16:30:17 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:17 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:17 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:20 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:20 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:20 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:23 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:23 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:23 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:26 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:26 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:26 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:29 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:29 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:29 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:32 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:32 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:32 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:35 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:35 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:35 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:38 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:38 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:38 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:41 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:41 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:41 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:45 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:45 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:45 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:47 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:47 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:47 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:50 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:50 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:50 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:53 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:53 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:53 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:56 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:56 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:56 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:59 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:59 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:30:59 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:02 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:02 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:02 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:05 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:05 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:05 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:08 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:08 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:08 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:11 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:11 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:11 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:14 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:14 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:14 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:17 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:17 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:17 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:20 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:20 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:20 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:23 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:23 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:23 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:26 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:26 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:26 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:29 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:29 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:29 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:32 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:32 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:32 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:35 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:35 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:35 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:38 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:38 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:38 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:41 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:41 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:41 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:45 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:45 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:45 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:47 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 BTC/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:47 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 ETH/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:47 | WARNING  | QuantBot.src.strategy.arbitrage | 分析 SOL/USDT 時發生錯誤: 'MockExchangeClient' object has no attribute 'fetch_orderbook'
+2026-02-15 16:31:49 | INFO     | QuantBot.src.core.bot | 收到停止信號，正在關閉...
+2026-02-15 16:31:49 | INFO     | QuantBot.src.core.bot | QuantBot 停止中...
+2026-02-15 16:31:49 | INFO     | QuantBot.src.core.bot | QuantBot 已停止
+2026-02-15 16:32:01 | INFO     | QuantBot.src.notification.telegram | Telegram 通知已啟用: chat_id=
+2026-02-15 16:32:01 | INFO     | QuantBot.__main__ | 正在啟動 QuantBot...
+2026-02-15 16:32:01 | INFO     | QuantBot.src.data.simulator | 🎮 市場模擬器初始化: enabled=True
+2026-02-15 16:32:01 | INFO     | QuantBot.src.data.fetcher | 🎮 已初始化模擬交易所: ['mexc', 'bitget']
+2026-02-15 16:32:01 | INFO     | QuantBot.src.data.fetcher | 🎮 模擬模式啟動
+2026-02-15 16:32:01 | INFO     | QuantBot.src.trading.smart_trader | SmartTrader 初始化完成
+2026-02-15 16:32:01 | INFO     | QuantBot.src.risk.manager | 風險管理器初始化: 止損2.0%, 止盈1.5%
+2026-02-15 16:32:01 | INFO     | QuantBot.src.strategy.arbitrage | 🤖 套利策略初始化: mexc ↔ bitget
+2026-02-15 16:32:01 | INFO     | QuantBot.src.core.bot | ✅ 交易所間套利策略已啟用
+2026-02-15 16:32:01 | INFO     | QuantBot.src.strategy.spot_futures | 📊 現貨-合約套利策略初始化
+2026-02-15 16:32:01 | INFO     | QuantBot.src.core.bot | ✅ 現貨-合約套利策略已啟用
+2026-02-15 16:32:01 | INFO     | QuantBot.src.core.bot | 已加載 2 個策略
+2026-02-15 16:32:01 | INFO     | QuantBot.src.core.bot | 🌐 Web 控制面板已啟動: http://localhost:5000
+2026-02-15 16:32:01 | INFO     | QuantBot.src.core.bot | QuantBot (AI版) 初始化完成
+2026-02-15 16:32:01 | INFO     | QuantBot.src.core.bot | ==================================================
+2026-02-15 16:32:01 | INFO     | QuantBot.src.core.bot | QuantBot AI 版啟動
+2026-02-15 16:32:01 | INFO     | QuantBot.src.core.bot | 🎮 模式: 模擬交易 (測試中)
+2026-02-15 16:32:01 | INFO     | QuantBot.src.core.bot | ==================================================
+2026-02-15 16:32:01 | INFO     | QuantBot.src.core.bot | ✓ mexc 已連接
+2026-02-15 16:32:01 | INFO     | QuantBot.src.core.bot | ✓ bitget 已連接
+2026-02-15 16:32:01 | INFO     | QuantBot.src.core.bot | 已設定 3 個排程任務
+2026-02-15 16:32:04 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 2.834%
+2026-02-15 16:32:04 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:32:04 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10184429884495486 SOL/USDT @ 100.385
+2026-02-15 16:32:04 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 100.385
+2026-02-15 16:32:07 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 2.140%
+2026-02-15 16:32:07 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:32:07 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.003339738276601656 ETH/USDT @ 2974.471
+2026-02-15 16:32:07 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 2974.471
+2026-02-15 16:32:10 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 1.772%
+2026-02-15 16:32:10 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:32:10 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.00020152057617067872 BTC/USDT @ 49018.0681
+2026-02-15 16:32:10 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 49018.0681
+2026-02-15 16:32:13 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 1.798%
+2026-02-15 16:32:13 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:32:13 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.00020344318262894765 BTC/USDT @ 49565.5432
+2026-02-15 16:32:13 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 49565.5432
+2026-02-15 16:32:16 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 1.737%
+2026-02-15 16:32:16 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:32:16 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.00020303736528456254 BTC/USDT @ 50691.7742
+2026-02-15 16:32:16 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 50691.7742
+2026-02-15 16:32:19 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 2.212%
+2026-02-15 16:32:19 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:32:19 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.0002028983713389616 BTC/USDT @ 50707.6296
+2026-02-15 16:32:19 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 50707.6296
+2026-02-15 16:32:22 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 1.208%
+2026-02-15 16:32:22 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:32:22 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.003330100112970298 ETH/USDT @ 3034.4279
+2026-02-15 16:32:22 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 3034.4279
+2026-02-15 16:32:25 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 2.443%
+2026-02-15 16:32:25 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:32:25 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.00020303126490046439 BTC/USDT @ 50773.0476
+2026-02-15 16:32:25 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 50773.0476
+2026-02-15 16:32:28 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 2.008%
+2026-02-15 16:32:28 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:32:28 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.003398479644406052 ETH/USDT @ 3033.7292
+2026-02-15 16:32:28 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 3033.7292
+2026-02-15 16:32:31 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 2.547%
+2026-02-15 16:32:31 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:32:31 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10191553972705085 SOL/USDT @ 98.2284
+2026-02-15 16:32:31 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 98.2284
+2026-02-15 16:32:34 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 1.934%
+2026-02-15 16:32:34 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:32:34 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10149733340504151 SOL/USDT @ 100.6349
+2026-02-15 16:32:34 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 100.6349
+2026-02-15 16:32:37 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 2.217%
+2026-02-15 16:32:37 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:32:37 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.00020074964656705997 BTC/USDT @ 49906.805
+2026-02-15 16:32:37 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 49906.805
+2026-02-15 16:32:40 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 2.119%
+2026-02-15 16:32:40 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:32:40 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.0033794555742849538 ETH/USDT @ 2997.2078
+2026-02-15 16:32:40 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 2997.2078
+2026-02-15 16:32:43 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 0.531%
+2026-02-15 16:32:43 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:32:43 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10176987718714064 SOL/USDT @ 99.0799
+2026-02-15 16:32:43 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 99.0799
+2026-02-15 16:32:46 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 3.295%
+2026-02-15 16:32:46 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:32:46 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10167147096481725 SOL/USDT @ 98.5512
+2026-02-15 16:32:46 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 98.5512
+2026-02-15 16:32:49 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 2.907%
+2026-02-15 16:32:49 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:32:49 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.0033797890260400957 ETH/USDT @ 3001.0231
+2026-02-15 16:32:49 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 3001.0231
+2026-02-15 16:32:52 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 3.473%
+2026-02-15 16:32:52 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:32:52 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.00020358704639118918 BTC/USDT @ 50872.7487
+2026-02-15 16:32:52 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 50872.7487
+2026-02-15 16:32:55 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 2.964%
+2026-02-15 16:32:55 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:32:55 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.00020236471252521688 BTC/USDT @ 49547.5876
+2026-02-15 16:32:55 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 49547.5876
+2026-02-15 16:32:58 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 1.088%
+2026-02-15 16:32:58 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:32:58 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10048848634269165 SOL/USDT @ 98.9723
+2026-02-15 16:32:58 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 98.9723
+2026-02-15 16:33:01 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 0.811%
+2026-02-15 16:33:01 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:33:01 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.00020311944115772177 BTC/USDT @ 49647.8399
+2026-02-15 16:33:01 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 49647.8399
+2026-02-15 16:33:04 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 2.313%
+2026-02-15 16:33:04 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:33:04 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.100374666192156 SOL/USDT @ 99.7564
+2026-02-15 16:33:04 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 99.7564
+2026-02-15 16:33:07 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 1.939%
+2026-02-15 16:33:07 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:33:07 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.00020205490829337998 BTC/USDT @ 49423.6206
+2026-02-15 16:33:07 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 49423.6206
+2026-02-15 16:33:10 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 2.623%
+2026-02-15 16:33:10 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:33:10 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10141786198493416 SOL/USDT @ 100.9516
+2026-02-15 16:33:10 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 100.9516
+2026-02-15 16:33:13 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 0.834%
+2026-02-15 16:33:13 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:33:13 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.09985195253836529 SOL/USDT @ 101.1591
+2026-02-15 16:33:13 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 101.1591
+2026-02-15 16:33:16 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 2.881%
+2026-02-15 16:33:16 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:33:16 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10132629477026318 SOL/USDT @ 98.4338
+2026-02-15 16:33:16 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 98.4338
+2026-02-15 16:33:19 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 2.026%
+2026-02-15 16:33:19 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:33:19 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.00020295081288853505 BTC/USDT @ 49526.9182
+2026-02-15 16:33:19 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 49526.9182
+2026-02-15 16:33:22 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 0.634%
+2026-02-15 16:33:22 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:33:22 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.003295168783799566 ETH/USDT @ 3025.3516
+2026-02-15 16:33:22 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 3025.3516
+2026-02-15 16:33:25 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 2.259%
+2026-02-15 16:33:25 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:33:25 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.0033735645582192012 ETH/USDT @ 3053.0653
+2026-02-15 16:33:25 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 3053.0653
+2026-02-15 16:33:28 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 2.460%
+2026-02-15 16:33:28 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:33:28 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10055287082427625 SOL/USDT @ 100.4626
+2026-02-15 16:33:28 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 100.4626
+2026-02-15 16:33:34 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 2.727%
+2026-02-15 16:33:34 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:33:34 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.00020377153027892114 BTC/USDT @ 49582.4458
+2026-02-15 16:33:34 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 49582.4458
+2026-02-15 16:33:37 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 1.765%
+2026-02-15 16:33:37 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:33:37 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10088044694910242 SOL/USDT @ 100.0159
+2026-02-15 16:33:37 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 100.0159
+2026-02-15 16:33:40 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 2.175%
+2026-02-15 16:33:40 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:33:40 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.0002031555815853994 BTC/USDT @ 50450.3043
+2026-02-15 16:33:40 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 50450.3043
+2026-02-15 16:33:43 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 1.654%
+2026-02-15 16:33:43 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:33:43 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10118129785148726 SOL/USDT @ 98.2836
+2026-02-15 16:33:43 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 98.2836
+2026-02-15 16:33:46 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 1.200%
+2026-02-15 16:33:46 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:33:46 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.00019942442429935254 BTC/USDT @ 49855.9071
+2026-02-15 16:33:46 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 49855.9071
+2026-02-15 16:33:49 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 2.324%
+2026-02-15 16:33:49 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:33:49 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.1015947443424241 SOL/USDT @ 99.6265
+2026-02-15 16:33:49 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 99.6265
+2026-02-15 16:33:52 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 2.315%
+2026-02-15 16:33:52 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:33:52 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.0033726534095909395 ETH/USDT @ 2951.9482
+2026-02-15 16:33:52 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 2951.9482
+2026-02-15 16:33:55 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 1.327%
+2026-02-15 16:33:55 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:33:55 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.09955016783105443 SOL/USDT @ 100.3329
+2026-02-15 16:33:55 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 100.3329
+2026-02-15 16:33:58 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 1.763%
+2026-02-15 16:33:58 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:33:58 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.000203250156826159 BTC/USDT @ 49723.476
+2026-02-15 16:33:58 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 49723.476
+2026-02-15 16:34:01 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 1.625%
+2026-02-15 16:34:01 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:34:01 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.09984724292179843 SOL/USDT @ 99.3925
+2026-02-15 16:34:01 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 99.3925
+2026-02-15 16:34:04 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 3.167%
+2026-02-15 16:34:04 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:34:04 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.0033889701388330404 ETH/USDT @ 2946.5363
+2026-02-15 16:34:04 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 2946.5363
+2026-02-15 16:34:07 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 3.081%
+2026-02-15 16:34:07 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:34:07 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10167651695594877 SOL/USDT @ 98.252
+2026-02-15 16:34:07 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 98.252
+2026-02-15 16:34:10 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 1.418%
+2026-02-15 16:34:10 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:34:10 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.003342394593221512 ETH/USDT @ 2985.0669
+2026-02-15 16:34:10 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 2985.0669
+2026-02-15 16:34:13 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 1.200%
+2026-02-15 16:34:13 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:34:13 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.0033861396230938684 ETH/USDT @ 2946.9886
+2026-02-15 16:34:13 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 2946.9886
+2026-02-15 16:34:16 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 0.723%
+2026-02-15 16:34:16 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:34:16 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.09971466827176675 SOL/USDT @ 100.6225
+2026-02-15 16:34:16 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 100.6225
+2026-02-15 16:34:19 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 1.686%
+2026-02-15 16:34:19 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:34:19 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.0002017056205847078 BTC/USDT @ 50075.1601
+2026-02-15 16:34:19 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 50075.1601
+2026-02-15 16:34:22 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 2.554%
+2026-02-15 16:34:22 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:34:22 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.003378403699033736 ETH/USDT @ 3050.2716
+2026-02-15 16:34:22 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 3050.2716
+2026-02-15 16:34:25 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 0.882%
+2026-02-15 16:34:25 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:34:25 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10069856480820388 SOL/USDT @ 101.0655
+2026-02-15 16:34:25 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 101.0655
+2026-02-15 16:34:28 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 2.164%
+2026-02-15 16:34:28 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:34:28 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.0033962220037385455 ETH/USDT @ 3019.8854
+2026-02-15 16:34:28 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 3019.8854
+2026-02-15 16:34:31 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 0.694%
+2026-02-15 16:34:31 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:34:31 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.0033572266815502265 ETH/USDT @ 2986.004
+2026-02-15 16:34:31 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 2986.004
+2026-02-15 16:34:34 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 1.066%
+2026-02-15 16:34:34 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:34:34 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.003328367160350146 ETH/USDT @ 2980.3915
+2026-02-15 16:34:34 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 2980.3915
+2026-02-15 16:34:37 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 3.532%
+2026-02-15 16:34:37 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:34:37 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.0033943557345433102 ETH/USDT @ 3018.8766
+2026-02-15 16:34:37 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 3018.8766
+2026-02-15 16:34:40 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 2.514%
+2026-02-15 16:34:40 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:34:40 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.003389028391300258 ETH/USDT @ 3004.7424
+2026-02-15 16:34:40 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 3004.7424
+2026-02-15 16:34:43 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 0.956%
+2026-02-15 16:34:43 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:34:43 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.0033683024169207255 ETH/USDT @ 2951.0839
+2026-02-15 16:34:43 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 2951.0839
+2026-02-15 16:34:46 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 1.121%
+2026-02-15 16:34:46 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:34:46 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.0994975374419204 SOL/USDT @ 101.9533
+2026-02-15 16:34:46 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 101.9533
+2026-02-15 16:34:49 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 2.442%
+2026-02-15 16:34:49 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:34:49 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.003381596412143281 ETH/USDT @ 3022.7955
+2026-02-15 16:34:49 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 3022.7955
+2026-02-15 16:34:52 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 2.371%
+2026-02-15 16:34:52 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:34:52 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10170327379636811 SOL/USDT @ 101.4182
+2026-02-15 16:34:52 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 101.4182
+2026-02-15 16:34:55 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 1.860%
+2026-02-15 16:34:55 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:34:55 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.00020177469592845454 BTC/USDT @ 50375.4583
+2026-02-15 16:34:55 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 50375.4583
+2026-02-15 16:34:58 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 0.535%
+2026-02-15 16:34:58 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:34:58 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10024901958136531 SOL/USDT @ 98.2855
+2026-02-15 16:34:58 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 98.2855
+2026-02-15 16:35:01 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 1.557%
+2026-02-15 16:35:01 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:35:01 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.00020131393959960328 BTC/USDT @ 49917.0309
+2026-02-15 16:35:01 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 49917.0309
+2026-02-15 16:35:04 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 2.253%
+2026-02-15 16:35:04 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:35:04 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.00337054483680259 ETH/USDT @ 3038.4504
+2026-02-15 16:35:04 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 3038.4504
+2026-02-15 16:35:07 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 1.858%
+2026-02-15 16:35:07 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:35:07 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.003343829046633694 ETH/USDT @ 2997.389
+2026-02-15 16:35:07 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 2997.389
+2026-02-15 16:35:10 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 1.300%
+2026-02-15 16:35:10 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:35:10 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.0002001726908550926 BTC/USDT @ 49478.2801
+2026-02-15 16:35:10 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 49478.2801
+2026-02-15 16:35:13 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 2.677%
+2026-02-15 16:35:13 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:35:13 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.003393796520913946 ETH/USDT @ 3036.0884
+2026-02-15 16:35:13 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 3036.0884
+2026-02-15 16:35:16 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 1.166%
+2026-02-15 16:35:16 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:35:16 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.00019971495701523004 BTC/USDT @ 49616.186
+2026-02-15 16:35:16 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 49616.186
+2026-02-15 16:35:19 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 1.278%
+2026-02-15 16:35:19 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:35:19 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.0033358768711280583 ETH/USDT @ 3043.3425
+2026-02-15 16:35:19 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 3043.3425
+2026-02-15 16:35:22 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 2.427%
+2026-02-15 16:35:22 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:35:22 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10092116736807952 SOL/USDT @ 100.3876
+2026-02-15 16:35:22 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 100.3876
+2026-02-15 16:35:25 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 2.481%
+2026-02-15 16:35:25 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:35:25 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.1016559784947604 SOL/USDT @ 100.7725
+2026-02-15 16:35:25 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 100.7725
+2026-02-15 16:35:28 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 0.842%
+2026-02-15 16:35:28 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:35:28 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.09925103798365437 SOL/USDT @ 100.9579
+2026-02-15 16:35:28 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 100.9579
+2026-02-15 16:35:31 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 1.543%
+2026-02-15 16:35:31 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:35:31 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10166186564927242 SOL/USDT @ 101.1231
+2026-02-15 16:35:31 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 101.1231
+2026-02-15 16:35:34 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 2.172%
+2026-02-15 16:35:34 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:35:34 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.00020073855101505056 BTC/USDT @ 50735.3996
+2026-02-15 16:35:34 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 50735.3996
+2026-02-15 16:35:37 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 2.571%
+2026-02-15 16:35:37 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:35:37 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.0002032785812504831 BTC/USDT @ 50526.1781
+2026-02-15 16:35:37 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 50526.1781
+2026-02-15 16:35:40 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 1.932%
+2026-02-15 16:35:40 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:35:40 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.003344017417653564 ETH/USDT @ 2955.3119
+2026-02-15 16:35:40 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 2955.3119
+2026-02-15 16:35:43 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 1.589%
+2026-02-15 16:35:43 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:35:43 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10071197805913965 SOL/USDT @ 101.5327
+2026-02-15 16:35:43 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 101.5327
+2026-02-15 16:35:46 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 1.871%
+2026-02-15 16:35:46 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:35:46 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.1003273002632343 SOL/USDT @ 99.0669
+2026-02-15 16:35:46 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 99.0669
+2026-02-15 16:35:49 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 2.380%
+2026-02-15 16:35:49 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:35:49 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10051704265786483 SOL/USDT @ 100.3959
+2026-02-15 16:35:49 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 100.3959
+2026-02-15 16:35:52 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 1.977%
+2026-02-15 16:35:52 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:35:52 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.1011668612023601 SOL/USDT @ 100.6322
+2026-02-15 16:35:52 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 100.6322
+2026-02-15 16:35:55 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 2.114%
+2026-02-15 16:35:55 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:35:55 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.0002004013201162851 BTC/USDT @ 50832.6022
+2026-02-15 16:35:55 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 50832.6022
+2026-02-15 16:35:58 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 2.498%
+2026-02-15 16:35:58 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:35:58 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10072963702516907 SOL/USDT @ 99.8088
+2026-02-15 16:35:58 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 99.8088
+2026-02-15 16:36:01 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 2.765%
+2026-02-15 16:36:01 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:36:01 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10160745049854285 SOL/USDT @ 98.9209
+2026-02-15 16:36:01 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 98.9209
+2026-02-15 16:36:04 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 3.497%
+2026-02-15 16:36:04 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:36:04 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.00020320872801462384 BTC/USDT @ 50413.1167
+2026-02-15 16:36:04 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 50413.1167
+2026-02-15 16:36:07 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 2.171%
+2026-02-15 16:36:07 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:36:07 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.0002025063133822387 BTC/USDT @ 49863.7284
+2026-02-15 16:36:07 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 49863.7284
+2026-02-15 16:36:10 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 3.105%
+2026-02-15 16:36:10 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:36:10 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10117431082174924 SOL/USDT @ 100.8268
+2026-02-15 16:36:10 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 100.8268
+2026-02-15 16:36:13 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 3.145%
+2026-02-15 16:36:13 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:36:13 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10169382491946714 SOL/USDT @ 100.2652
+2026-02-15 16:36:13 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 100.2652
+2026-02-15 16:36:16 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: SOL/USDT, 淨獲利: 1.835%
+2026-02-15 16:36:16 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: SOL/USDT...
+2026-02-15 16:36:16 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.10131645874518642 SOL/USDT @ 101.7581
+2026-02-15 16:36:16 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: SOL/USDT @ 101.7581
+2026-02-15 16:36:19 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: BTC/USDT, 淨獲利: 1.966%
+2026-02-15 16:36:19 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: BTC/USDT...
+2026-02-15 16:36:19 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.00020056574323400357 BTC/USDT @ 50054.7452
+2026-02-15 16:36:19 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: BTC/USDT @ 50054.7452
+2026-02-15 16:36:22 | INFO     | QuantBot.src.strategy.arbitrage | 💰 發現套利機會: ETH/USDT, 淨獲利: 2.666%
+2026-02-15 16:36:22 | INFO     | QuantBot.src.trading.smart_trader | AI 分析中: ETH/USDT...
+2026-02-15 16:36:22 | INFO     | QuantBot.src.data.simulator | 🎮 [模擬] buy 0.0033797751970078243 ETH/USDT @ 3021.7083
+2026-02-15 16:36:22 | INFO     | QuantBot.src.trading.smart_trader | 🎮 進場: ETH/USDT @ 3021.7083
